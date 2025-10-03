@@ -25,4 +25,4 @@ Zepto is a leading instant grocery delivery app in indian market and customers o
 <br>
 ***Companies and customers can use this dashboard to check the key selling product, fat content in items for health freaks, outlet of which location and type is generating higher sales and which item need least space in stock or need improvement.***<br>
 <br>
-
+![Dashboard Preview](https://github.com/Abhinavyadav01/Zepto_Sales/blob/main/Zepto%20Dashboard.png)
