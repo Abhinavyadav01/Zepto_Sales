@@ -29,7 +29,7 @@ Zepto is a leading instant grocery delivery app in India. This project answers k
 
 ## Dataset
 
-**Source:** [Kaggle — Zepto Grocery Dataset](https://www.kaggle.com/)
+**Source:** [Kaggle — Zepto Grocery Dataset]
 
 | Column | Description |
 |---|---|
